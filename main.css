@@ -1,0 +1,10 @@
+h1{
+color: black;
+background-color: red;
+}
+
+tr1 {
+color: blue;
+background-color: rgb(255, 99, 71); 
+}
+td { background: linear-gradient(to right, tomato 50%, lightgray 51%); }

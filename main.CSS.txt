@@ -1,0 +1,9 @@
+h1{
+color: black;
+background-color: red;
+}
+
+tr1 {
+color: blue;
+background-color: rgb(255, 99, 71); 
+}
